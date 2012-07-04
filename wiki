@@ -1,0 +1,3 @@
+peter:~/episode-29$ locate Custom.css
+/home/peter/.config/chromium/Default/User StyleSheets/Custom.css
+/home/peter/.config/google-chrome/Default/User StyleSheets/Custom.css
