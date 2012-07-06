@@ -1,8 +1,10 @@
+
 peter:~/episode-29$ locate Custom.css
 /home/peter/.config/chromium/Default/User StyleSheets/Custom.css
 /home/peter/.config/google-chrome/Default/User StyleSheets/Custom.css
 
+"Conflicts" mean "parallel evolutions of a same content"
+
 http://www.worldhello.net/gotgithub/04-work-with-others/020-shared-repo.html#id5
 http://ruby-china.org/topics/112
 
-rebase is a alternative for merge

@@ -1,0 +1,14 @@
+1. show people do rebase *manually* then they will know what rebase is
+   1. rebase is a alternative for merge
+   1. rebase care NOT timing
+
+1. In which cases, people need to use rebase
+1. git push # conflicts now, how much I wish I pulled before I did my own commit
+   1. so I throwh, and do my local change again, commit and push
+   1. but I don't need to be like this, just `git pull --rebase`
+
+1. merge and rebase, which is better? None. Pros and Cons.
+1. show people `rebase -i`
+    1. a meaningful patch <-> easy to regret
+    1. squash commits
+    1. what if all my patches are for two meaningful feather: cherry-pick
